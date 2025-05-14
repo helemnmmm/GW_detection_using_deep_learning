@@ -6,7 +6,7 @@ We sincerely thank the original authors for their valuable contributions.
 
 ## Intro
 
-This repository contains a deep learning framework for simulating and identifying gravitational wave (GW) signals, particularly those from binary neutron star (BNS&BBH) mergers. The project leverages signal whitening, and CNN&ResNet to distinguish GW signals from noise.
+This repository contains a deep learning framework for simulating and identifying gravitational wave (GW) signals, particularly those from binary neutron star (BNS&BBH) mergers. The project leverages signal whitening, and CNN&ResNet to distinguish GW signals from noise. More details for this project to see [here](https://helemnmmm.github.io/projects/1_project/).
 
 ## 📁 Repository Structure
 
