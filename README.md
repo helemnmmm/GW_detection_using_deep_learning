@@ -8,27 +8,27 @@ We sincerely thank the original authors for their valuable contributions.
 
 This repository contains a deep learning framework for simulating and identifying gravitational wave (GW) signals, particularly those from binary neutron star (BNS&BBH) mergers. The project leverages signal whitening, and CNN&ResNet to distinguish GW signals from noise. More details for this project to see [here](https://helemnmmm.github.io/projects/1_project/).
 
-## 📁 Repository Structure
+## Repository Structure
 
 - `baseline.ipynb`: Main Jupyter notebook demonstrating signal generation, preprocessing, and model inference.
 - `main.py`: Contains model architecture and training pipeline.
-- `utils.py`: Utility functions for vislize training process.
+- `utils.py`: Utility functions for visualizing training process.
 
-## 🧠 Key Features
+## Key Features
 
 - Simulates BNS&BBH gravitational waveforms using user-defined sampling parameters.
 - Supports Gaussian LIGO noise PSD injection and data whitening.
 - Implements 4 classifiers to distinguish signal from noise.
 - Modular code with flexible parameters: observation time, sampling rate, SNR, etc.
 
-## 🔧 Requirements
+## Requirements
 
 - Python 3.7+
 - PyTorch
 - NumPy, Matplotlib, SciPy
 - [LALSuite](https://git.ligo.org/lscsoft/lalsuite) (for waveform and PSD generation)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
